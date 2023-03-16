@@ -10,7 +10,7 @@ import com.apple.foundationdb.subspace.Subspace;
 import com.apple.foundationdb.tuple.Tuple;
 import java.util.ArrayList;
 import java.util.List;
-import CSCI485ClassProject.models.*;
+import ClassProjectPart2New.src.CSCIClassProject.models.*;
 
 public class FDBHelper {
 
